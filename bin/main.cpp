@@ -1,6 +1,5 @@
 #include <iostream>
 #include "MergeSort.h"
-#include "Merge.h"
 
 int main() {
     int n; std::cin >> n;
