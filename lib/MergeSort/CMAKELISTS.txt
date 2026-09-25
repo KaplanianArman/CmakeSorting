@@ -1,0 +1,2 @@
+add_library(MergeSort Merge.cpp MergeSort.cpp)
+target_include_directories(MergeSort PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
